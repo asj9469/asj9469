@@ -42,7 +42,6 @@ public class User{
 
 <details>
 <summary>Some More Info</summary>
-<br>
 
 ## Additional Skills:
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -50,7 +49,6 @@ public class User{
 ![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
-<br>
 
 ## Workspace:
 
