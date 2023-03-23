@@ -1,4 +1,4 @@
-# Welcome to My Profile 👋 ![](https://komarev.com/ghpvc/?username=asj9469&color=486cc7&label=Profile+Views)
+# Welcome to My Profile 👋 ![](https://komarev.com/ghpvc/?username=asj9469&color=101414&label=Profile+Views&style=for-the-badge) [![](https://img.shields.io/badge/linktree-101414?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/AnsonGoo)
 
 ~~~ Java
 package asj9469;
@@ -29,7 +29,6 @@ public class User{
 ![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
-
 ## Languages / Frameworks:
 <!-- languages & framework badges-->
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,8 +39,9 @@ public class User{
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark)
 =
 
-<details>
+<details open>
 <summary>Some More Info</summary>
+
 
 ## Additional Skills:
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -61,24 +61,11 @@ Desktop
 Laptop
 
 ![image](https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+![image](https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-RTX3050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 <br>
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asj9469&theme=dark)
 </details>
-
-<!--
-**asj9469/asj9469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
