@@ -39,7 +39,7 @@ public class User{
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark)
 =
 
-<details open>
+<details>
 <summary>Some More Info</summary>
 
 
