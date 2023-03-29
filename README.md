@@ -1,4 +1,6 @@
-# Welcome to My Profile 👋 ![](https://komarev.com/ghpvc/?username=asj9469&color=101414&label=Profile+Views&style=for-the-badge) [![](https://img.shields.io/badge/linktree-101414?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/AnsonGoo)
+# Welcome to My Profile 👋 [![](https://img.shields.io/badge/linktree-101414?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/AnsonGoo)
+
+<!-- ![](https://komarev.com/ghpvc/?username=asj9469&color=101414&label=Profile+Views&style=for-the-badge)-->
 
 ~~~ Java
 package asj9469;
