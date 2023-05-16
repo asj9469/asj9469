@@ -18,7 +18,6 @@ public class User{
         favCodingLang = java;
     }
 
-    //Freshman @ Rutgers University (New Brunswick)
     //Enjoys to program tools that solve practical matters
     //Passionate in problem solving and devising efficient solutions
 }
