@@ -42,14 +42,10 @@ public class User{
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark)
-=
 </details>
 
 <details>
 <summary>Some More Info</summary>
-
 
 ## Additional Skills:
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -68,12 +64,16 @@ Desktop
 ![image](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
-Laptop
+Laptops
 
 ![image](https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![image](https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![image](https://img.shields.io/badge/NVIDIA-RTX3050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+    
+![image](https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white)
+![image](https://img.shields.io/badge/Intel%20Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 <br>
 
