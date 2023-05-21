@@ -22,6 +22,8 @@ public class User{
     //Passionate in problem solving and devising efficient solutions
 }
 ~~~
+<details>
+<summary>Language / IDE Info</summary>
 
 ## Used IDEs:
 <!-- IDE Badges -->
@@ -43,6 +45,7 @@ public class User{
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark)
 =
+</details>
 
 <details>
 <summary>Some More Info</summary>
