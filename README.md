@@ -22,8 +22,8 @@ public class User{
     //Passionate in problem solving and devising efficient solutions
 }
 ~~~
-<details>
-<summary>Language / IDE Info</summary>
+<!-- <details> -->
+<!-- <summary>Languages / IDE Info</summary> -->
 
 ## Used IDEs:
 <!-- IDE Badges -->
@@ -42,29 +42,29 @@ public class User{
 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-</details>
-
-<details>
-<summary>Some More Info</summary>
-
-## Additional Skills:
+    
+<!--## Additional Skills:
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![image](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
     
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) 
+-->
 
-## Workspace:
+<!-- </details> -->
 
-Desktop
+<details>
+<summary>Workspace Info</summary>
+
+## Desktop:
 
 ![image](https://img.shields.io/badge/Intel%20Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![image](https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![image](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
-Laptops
+## Laptops:
 
 ![image](https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white)
 ![image](https://img.shields.io/badge/Intel%20Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -75,7 +75,11 @@ Laptops
 ![image](https://img.shields.io/badge/Intel%20Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-<br>
+<!--<br>
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asj9469&theme=dark)
+-->
+    
 </details>
+
+
