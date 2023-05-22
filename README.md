@@ -9,13 +9,11 @@ public class User{
     private String name;
     private int age;
     private String major;
-    private String favCodingLang;
 
-    public User(String anson, int eighteen, String cs, String java){
+    public User(String anson, int eighteen, String cs){
         name = anson;
-        age = eighteen;
+        age = nineteen;
         major = cs;
-        favCodingLang = java;
     }
 
     //Enjoys to program tools that solve practical matters
