@@ -17,7 +17,9 @@ public class User{
     }
 
     //Enjoys to program tools that solve practical matters
-    //Passionate in problem solving and devising efficient solutions
+    //Loves problem solving and devising efficient solutions
+    //Passionate about task management and organization methods
+    
 }
 ~~~
 <!-- <details> -->
