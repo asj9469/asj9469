@@ -10,7 +10,7 @@ public class User{
     private int age;
     private String major;
 
-    public User(String anson, int eighteen, String cs){
+    public User(String anson, int nineteen, String cs){
         name = anson;
         age = nineteen;
         major = cs;
