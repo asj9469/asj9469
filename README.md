@@ -25,12 +25,12 @@ public class User{
 <!-- <details> -->
 <!-- <summary>Languages / IDE Info</summary> -->
 
-## Used IDEs:
+## Used IDEs: <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark">
 <!-- IDE Badges -->
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![image](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark">
+
 
 ## Languages / Frameworks: 
 <!-- languages & framework badges-->
