@@ -8,11 +8,13 @@ public class User{
 
     private String name;
     private int age;
+    private String school;
     private String major;
 
-    public User(String anson, int nineteen, String cs){
+    public User(String anson, int nineteen, String georgiaTech, String cs){
         name = anson;
         age = nineteen;
+        school = georgiaTech;
         major = cs;
     }
 
