@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=30&pause=1000&color=84B3D0&center=true&random=false&width=800&height=100&lines=Hi%2C+my+name+is+Anson!;www.anson-goo.info)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sometype+Mono&size=30&pause=1000&color=84B3D0&center=true&random=false&width=800&lines=Hi%2C+my+name+is+Anson!;www.anson-goo.info)](https://git.io/typing-svg)
 <!-- ![](https://komarev.com/ghpvc/?username=asj9469&color=101414&label=Profile+Views&style=for-the-badge)-->
 
 ~~~ Java
