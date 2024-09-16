@@ -12,7 +12,7 @@ public class User{
 
     public User(String anson, int nineteen, String georgiaTech, String cs){
         name = anson;
-        age = nineteen;
+        age = twenty;
         school = georgiaTech;
         major = cs;
     }
