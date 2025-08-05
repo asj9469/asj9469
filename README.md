@@ -10,10 +10,10 @@ public class User{
     private String school;
     private String major;
 
-    public User(String anson, int twenty, String georgiaTech, String cs){
+    public User(String anson, int twenty-one, String georgia-tech, String cs){
         name = anson;
         age = twenty-one;
-        school = georgiaTech;
+        school = georgia-tech;
         major = cs;
     }
 
