@@ -26,7 +26,8 @@ public class User{
 <!-- <details> -->
 <!-- <summary>Languages / IDE Info</summary> -->
 
-## Used IDEs: <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark">
+## Used IDEs: 
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asj9469&theme=dark"> -->
 <!-- IDE Badges -->
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -44,6 +45,7 @@ public class User{
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Django-073c2a?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Cloud
